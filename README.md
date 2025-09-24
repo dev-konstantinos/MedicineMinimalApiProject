@@ -1,6 +1,6 @@
 # Minimal Medicine API
 
-A **.NET Minimal API** for managing a home medicine inventory.  
+A **.NET Minimal API** for managing a home medicine inventory with a simple JWT authorization.  
 This project demonstrates modern practices for building RESTful APIs with minimal setup.  
 
 Since this API simulates a home medicine cabinet for personal use, some special criteria, such as the drug's batch number, have been deliberately omitted.
